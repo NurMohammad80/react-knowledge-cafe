@@ -1,3 +1,4 @@
+import { FaBookmark } from 'react-icons/fa';
 import PropTypes from 'prop-types';
 
 const Blog = ({ blog }) => {
@@ -16,6 +17,7 @@ const Blog = ({ blog }) => {
                 </div>
                 <div>
                     <span>{reading_time} min read</span>
+                    <button className='ml-1 text-xl text-red-600'><FaBookmark></FaBookmark></button>
                 </div>
             </div>
             <h2 className='text-4xl my-4 font-bold'>{title}</h2>
