@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/XxJm6Lf/1.jpg",
+      "title": "The Mystery of the Hidden Treasure",
+      "author": "Emily Smith",
+      "author_img": "https://i.ibb.co/bJW6bLt/boy1.png",
+      "posted_date": "2023-09-13",
+      "reading_time": 15,
+      "hashtags": ["mystery", "adventure", "treasure"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/GkhpZTt/2.png",
+      "title": "Cooking Adventures: A Culinary Journey",
+      "author": "Daniel Cook",
+      "author_img": "https://i.ibb.co/Zf19JYT/boy2.jpg",
+      "posted_date": "2023-09-12",
+      "reading_time": 20,
+      "hashtags": ["cooking", "recipes", "foodie"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/q02kY6q/3.png",
+      "title": "Exploring the Wilderness",
+      "author": "Sarah Walker",
+      "author_img": "https://i.ibb.co/kh8jjxT/girl1.jpg",
+      "posted_date": "2023-09-11",
+      "reading_time": 30,
+      "hashtags": ["nature", "outdoors", "hiking"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/DwbK9DP/4.jpg",
+      "title": "Tech Talk: The Future of AI",
+      "author": "John Techman",
+      "author_img": "https://i.ibb.co/wWZWR3V/girl2.jpg",
+      "posted_date": "2023-09-10",
+      "reading_time": 10,
+      "hashtags": ["technology", "AI", "future"]
+    }
+  ]
+  
